@@ -15,7 +15,7 @@ $bmi = $weight/$pembagi;
 $bmi = round($bmi, "0");
 }
 if($bmi < 18){
-echo "BMI anda adalah $bmi";
+echo "Body Measure Index anda adalah $bmi";
 echo "<br/>";
 echo "Anda masuk kategori Underweight ";
 }
